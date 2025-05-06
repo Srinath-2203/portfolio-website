@@ -6,7 +6,7 @@ Welcome to my personal portfolio!
 I'm a Computer Science student at MLR Institute of Technology, passionate about coding, web development, and problem-solving.  
 
 🔗 **View My Projects:**  
-- [Portfolio Website](https://your-portfolio-link.com)  
+- [Portfolio Website](https://srinath-2203.github.io/portfolio-website/)  
 - [GitHub Repository](https://github.com/Srinath-2203/)  
 
 📫 **Contact Me:**  
