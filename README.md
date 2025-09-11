@@ -5,7 +5,7 @@ A personal portfolio showcasing my skills, projects, and contact details. Built 
 ---
 
 ##  About Me
-I'm a **Computer Science Engineering student** at **MLR Institute of Technology**, passionate about coding, web development, and problem-solving. This portfolio represents my journey and projects in tech.
+I'm a Computer Science Engineering student at MLR Institute of Technology, passionate about coding, web development, and problem-solving. This portfolio represents my journey and projects in tech.
 
 ---
 
@@ -31,4 +31,8 @@ I'm a **Computer Science Engineering student** at **MLR Institute of Technology*
 
 ---
 
-##  File Structure
+📬 Contact
+
+Email: tholichukkasrinath@gmail.com
+LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/srinaththolichukka/)
+GitHub: [Srinath-2203](https://github.com/Srinath-2203)
