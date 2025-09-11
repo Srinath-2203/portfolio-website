@@ -34,5 +34,5 @@ I'm a Computer Science Engineering student at MLR Institute of Technology, passi
 📬 Contact
 
 - Email: tholichukkasrinath@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/srinaththolichukka/)
+- LinkedIn: [Srinath Tholichukka](https://www.linkedin.com/in/srinaththolichukka/)
 - GitHub: [Srinath-2203](https://github.com/Srinath-2203)
