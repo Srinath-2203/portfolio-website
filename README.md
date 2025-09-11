@@ -10,7 +10,8 @@ I'm a **Computer Science Engineering student** at **MLR Institute of Technology*
 ---
 
 ##  Live Site & Repository
-- [View the live portfolio](https://srinath-2203.github.io)
+- [View Live Portfolio](https://srinath-2203.github.io/portfolio-website/)
+
 - [GitHub Repository](https://github.com/Srinath-2203/portfolio-website)
 
 ---
