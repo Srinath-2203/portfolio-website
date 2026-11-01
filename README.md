@@ -2,6 +2,5 @@
 
 A modern developer portfolio showcasing my projects, technical skills, certifications, and experience in Software Development and AI/ML.
 
-🌐 Live Website
-
+🌐 Live Website (click below link)
 https://srinath-2203.github.io/portfolio-website/
